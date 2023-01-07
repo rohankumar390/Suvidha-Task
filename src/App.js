@@ -5,11 +5,11 @@ function App() {
   return (
     <>
       <Navbar></Navbar>
+      {/* <br></br>
       <br></br>
       <br></br>
       <br></br>
-      <br></br>
-      <Footer/>
+      <Footer/> */}
     </>
   );
 }
